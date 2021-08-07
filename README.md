@@ -1,2 +1,2 @@
 # LoginWeb
- Simple Web Login
+ Simple web login application with Node.js using express and passport
