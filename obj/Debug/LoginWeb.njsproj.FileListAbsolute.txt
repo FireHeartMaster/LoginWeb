@@ -1,0 +1,3 @@
+D:\Code Projects\LearningJavascript\LoginWeb\obj\Debug\LoginWeb.njsproj.AssemblyReference.cache
+D:\Code Projects\LearningJavascript\LoginWeb\obj\Debug\LoginWeb.njsproj.CoreCompileInputs.cache
+D:\Code Projects\LearningJavascript\LoginWeb\bin\Microsoft.NodejsTools.WebRole.dll
